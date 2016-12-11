@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    class WereWolf
     {
-        static void Main(string[] args)
-        {
-        }
+        string name = Wilson;
+        int health = 150;
+        int power = 150;
     }
 }
